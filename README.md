@@ -26,4 +26,4 @@
 - The biggest change is the ranking of Thomas High School after replacing the ninth graders' scores with NaN. Before the change, Thomas High School was not in the top five schools ranked by overall passing percentage. However, after the change Thomas High School ranks second place. 
 - Another major change is the scores by school size. Before the change, medium sized schools ranks second place in terms of passing percentages. After the change, medium sized schools ranks first, surpassing small sized schools. 
 - Another major change is the math scores by grade. Before the change, 9th graders in Thomas High School had the highest scores in math, but after the scores were replaced with NaN 11th graders have the highest average math scores.
-- Another major change is the district summary, where Thomas High School's math, reading, as well as overall passing percentages increased by a large extent. 
+- Another major change is the school summary, where Thomas High School's math, reading, as well as overall passing percentages increased by a large extent. 
