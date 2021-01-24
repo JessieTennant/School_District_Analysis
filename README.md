@@ -8,8 +8,9 @@
 
 ## Results
 
-- The follwoing two charts show the before and after of changes made to ninth graders' grades from Thomas High School. 
-
+- The following two tables show the before and after of changes made to ninth graders' grades from Thomas High School. 
+![before_change_district.PNG](before_change_district.PNG)
+![ths_after_change_district.PNG](ths_after_change_district.PNG)
 
 - How is the district summary affected?
   - The district summary does not alter too much: average math score from 79.0% to 78.9%; average reading score did not change; math passing percentage from 75.0% to 74.8%; reading passing percentage from 85.8% to 85.7%; and overall passing percentage from 65.2% to 64.9%. 
@@ -25,7 +26,7 @@
   - Scores by school size: Thomas High School has 1635 students, thus it falls in the category of medium (between 1000 and 2000). Every percentage increased, without affecting the average scores: math percentage went up from 88.327523% to 93.582398%; reading percentage went from 91.261628% to 96.732654%; and overall passing percentge went from 85.447223% to 90.557997. 
   - Scores by school type: Thomas High School is a charter school, thus it makes sense charter school's scores were affected. The only scores affected are the percentages; the average scores stay the same. Math percentage went from 90% to 94%; reading percentage went from 93% to 97%; and overall passing percentage went from 87% to 90%. 
   
-
+[PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb)
   
 ## Summary
 - The biggest change is the ranking of Thomas High School after replacing the ninth graders' scores with NaN. Before the change, Thomas High School was not in the top five schools ranked by overall passing percentage. However, after the change Thomas High School ranks second place. 
