@@ -15,9 +15,9 @@
   - According to the district summary before the change, Thomas High School's math passing percentage is 66.911315%. After the percentage of passing of the ninth graders from Thomas High School was changed, the percentage raised to 93.185690%, by 26.274375%. The reading passing percentage and overall passing percentage are also raised: reading percentage from 69.663609% to 97.018739%, by 27.35513%, and overall percentage from 65.076453% to 90.630324%, by 25.553871%. 
   
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-  - 
+  - Thomas High School was not in the top 5th schools ranked by overall passing percentage before the change, however after the change Thomas High School ranks second place, with a 90.630324% overall passing percentage.
 - How does replacing the ninth-grade scores affect the following:
-  - Math and reading scores by grade:
+  - Math and reading scores by grade: In terms of math scores, before the change, 9th grade had the highest score in Thomas High, with a score of 83.5900. The scores for 9th grade is cancelled to NaN after the change, so 11th grade became the grade with the highest score, with a score of 83.498795. In terms of reading scores, 9th grade did not have the highest score to begin with; both before and after the change 10th grade has the highest score (84.254157). 
   - Scores by school spending: Since Thomas High School costs $638 per student, it falls in the range between $630 and $644. All the scores went up after the change, since all the percentages went up. For the range of $630-$644, average math score went from 78.1 to 79.1; reading score went from 83.8 to 81.9
-  - Scores by school size:
+  - Scores by school size: Thomas High School's size is 
   - Scores by school type:
